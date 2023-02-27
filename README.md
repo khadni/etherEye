@@ -1,6 +1,6 @@
 # Ethereum Block Explorer - playing with Alchemy SDK
 
-This is a React web application built as a part of the Alchemy Ethereum Bootcamp to learn about JSON-RPC and interact with the Ethereum blockchain using the Alchemy SDK. The application consists of three main pages: a Block Table page that displays information about the latest Ethereum block and the previous 9 blocks, a Balance Checker page that allows the user to see their balance in ETH, and an NFTs Checker page that allows the user to see a list of their NFTs.
+This is a React web application built as a part of the **[Alchemy Ethereum Bootcamp](https://docs.alchemy.com/reference/api-overview)** to learn about JSON-RPC and interact with the Ethereum blockchain using the Alchemy SDK. The application consists of three main pages: a Block Table page that displays information about the latest Ethereum block and the previous 9 blocks, a Balance Checker page that allows the user to see their balance in ETH, and an NFTs Checker page that allows the user to see a list of their NFTs.
 
 ## **Building the App**
 
